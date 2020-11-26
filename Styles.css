@@ -1,0 +1,128 @@
+body ,html{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+margin: 0;
+font-family: 'Dancing Script', cursive;
+font-size: 74px;
+}
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+.name{
+  color: white;
+  margin-top: 24px;
+    font-size: small
+}
+.pic{
+  border-radius: 50%;
+  height: 209px;
+  width:227px;
+padding-top: 20px;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-container{
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+  height: 652px;
+}
+.land{
+  position: absolute;
+  bottom: 0;
+  height: 377px;
+  right: 148px;
+
+}
+.bottom-pic{
+position: absolute;
+right: 1100px;
+bottom: 315px;
+
+
+
+}
+.upper-pic{
+  position: absolute;
+ bottom: 569px;
+  right: 238px;
+}
+.font-text{
+  position: relative;
+  bottom: -122px;
+  color: #2fc4b2;
+
+}
+.font{
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+}
+.title{
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 36px;
+  color: #2fc4b2;
+}
+.skills{
+  position: relative;
+  height: 466px;
+}
+.left-table{
+  text-align: left;
+  position: absolute;
+left: 89px;
+}
+.right-table{
+position: absolute;
+right: 338px;
+font-size: 20px;
+
+}
+.education{
+  font-size: 24px;
+  padding-left:  100px;
+text-align: left;
+}
+.btn {
+  background: #34d9aa;
+  background-image: -webkit-linear-gradient(top, #34d9aa, #2bb89e);
+  background-image: -moz-linear-gradient(top, #34d9aa, #2bb89e);
+  background-image: -ms-linear-gradient(top, #34d9aa, #2bb89e);
+  background-image: -o-linear-gradient(top, #34d9aa, #2bb89e);
+  background-image: linear-gradient(to bottom, #34d9aa, #2bb89e);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfccf;
+  text-decoration: none;
+}
+.footer{
+  background-color: #34d9aa;
+  margin-top: 81px;
+height: 149px;
+padding-top: 43px;
+}
